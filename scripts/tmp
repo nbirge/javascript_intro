@@ -1,0 +1,457 @@
+    1  pwd
+    2  cd
+    3  ls
+    4  cd Desktop/
+    5  ls
+    6  pwd
+    7  python
+    8  pip install matplotlib
+    9  sudo pip install matplotlib
+   10  sudo pip install numpy
+   11  sudo pip install scipy
+   12  pip install numba
+   13  sudo pip install numba
+   14  cd /media/
+   15  ls
+   16  cd
+   17  cd /mnt/
+   18  ls
+   19  cd
+   20  ls
+   21  cd /
+   22  ls
+   23  ls media/
+   24  ls mnt/
+   25  cd cd /run/media/nbirge/WD_My_Passport_ultra/
+   26  cd /run/media/nbirge/WD_My_Passport_ultra/
+   27  ls
+   28  cd noah_backup/
+   29  ls
+   30  cd ub
+   31  cd ubuntu/
+   32  ls
+   33  cd noah/
+   34  ls
+   35  cd Desktop/
+   36  ls
+   37  cp -rv DAC_stuff/ /home/nbirge/Desktop/
+   38  sudo pip install jupyterlab
+   39  ls
+   40  pwd
+   41  cp -rv large_analysis/ /home/nbirge/Desktop/
+   42  cd
+   43  terminal
+   44  gnome-terminal 
+   45  exit
+   46  cd Desktop/
+   47  ls
+   48  pwd
+   49  echo "Hello"
+   50  ssh nbirge@duo.acf.utk.edu
+   51  sudo dnf upgrad --refresh
+   52  sudo dnf upgrade --refresh
+   53  jupyterlab
+   54  jupyter lab
+   55  ls
+   56  sudo dnf install   https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+   57  sudo dnf install   https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+   58  dnf install lpf-spotify-client
+   59  su
+   60  sudo dnf install lpf-spotify-client
+   61  lpf update
+   62  ls
+   63  cd
+   64  vi .bashrc
+   65  source .bashrc
+   66  acf
+   67  exit
+   68  acf
+   69  exit
+   70  acf
+   71  exit
+   72  acf
+   73  exit
+   74  acf
+   75  exit
+   76  scp nbirge@duo.acf.utk.edu:/nics/d/home/nwbirge/*batch* ./Desktop/DM_simulation/
+   77  exit
+   78  cd Desktop/
+   79  mkdir DM_simulation
+   80  acf
+   81  cd large_analysis/ca_analysis/simulation_comparison/
+   82  mkdir old_vs_new_sim
+   83  pwd
+   84  cd
+   85  cd Desktop/large_analysis/zeck_simulation/
+   86  ls
+   87  ls *45*
+   88  ipython
+   89  jupyter lab
+   90  jupyter
+   91  jupyter lab
+   92  exit
+   93  exit
+   94  exit
+   95  cd
+   96  vi .bashrc
+   97  source .bashrc
+   98  cadata
+   99  ls
+  100  cd ..
+  101  ls
+  102  cd cur_data/
+  103  ls calib_src_runs/*.npy
+  104  cd calib_src_runs/
+  105  ls
+  106  cd ../
+  107  ls
+  108  ls *.dat
+  109  rm Run_*.dat
+  110  ls
+  111  cd ../temp_data/
+  112  ls
+  113  cd
+  114  du -h
+  115  df -h
+  116  lsblk
+  117  cadata 
+  118  ls
+  119  ls *.dat
+  120  aacf
+  121  acf
+  122  exit
+  123  cd /media
+  124  ls
+  125  cd ../mnt/
+  126  ls
+  127  cd /run/media/nbirge/Data/
+  128  ls
+  129  scp nbirge@duo.acf.utk.edu:/lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/analysis_backup/consolidated/to_download/*.dat
+  130  scp nbirge@duo.acf.utk.edu:/lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/analysis_backup/consolidated/to_download/*.dat .
+  131  exit
+  132  cd large_analysis/ca_analysis/
+  133  ls
+  134  ls corruption/
+  135  cd cur_data/
+  136  ls
+  137  ls later_runs/
+  138  ls backgrounds/
+  139  ls backgrounds/ADC/
+  140  pwd
+  141  cd ../
+  142  ls
+  143  ls -d
+  144  ls -d */
+  145  ls */
+  146  ls -d */
+  147  ls -l
+  148   ls -d */
+  149  ls cython/
+  150  ls data_quality/
+  151  ls data_quality/all_the_figs/
+  152  cd
+  153  cd Desktop/large_analysis/ca_analysis/single_pixel_spectra/spectra/
+  154  ls
+  155  ffmpeg -framerate 1/5 -i *.png -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4
+  156  ls
+  157  cd
+  158  htop
+  159  ipython
+  160  exit
+  161  cd /boot/grub2/
+  162  ls
+  163  sudo cd /boot/grub2/
+  164  ls
+  165  cd /boot/grub2/
+  166  sudo cd /boot/grub2/
+  167  ls
+  168  su
+  169  cd /
+  170  ls
+  171  ls boot/
+  172  ls boot/grub2/
+  173  sudo ls /boot/grub2/
+  174  jupyter lab
+  175  exit
+  176  vim /boot/grub2/
+  177  exit
+  178  sudo dnf upgrade --refresh
+  179  exit
+  180  ls
+  181  cd Downloads/
+  182  ls
+  183  mv b_1.00.txt from_elliott/
+  184  mv from_elliott/ ../Desktop/
+  185  cd De
+  186  cd Des
+  187  cd ../Desktop/
+  188  ls
+  189  mv from_elliott/ large_analysis/zeck_simulation/BSG/
+  190  cd large_analysis/zeck_simulation/BSG/
+  191  ls
+  192  cd from_elliott/
+  193  ls
+  194  mv b_0.00.txt b_0.txt
+  195  mv b_1.00.txt b_1.txt
+  196  gedit b_0.txt b_1.txt 
+  197  yum update
+  198  sudo yum update
+  199  su -c 'dnf upgrade'
+  200  sudo dnf upgrade
+  201  htop
+  202  exit
+  203  ls
+  204  rm test.py
+  205  ls
+  206  ipython
+  207  fg 1
+  208  exit
+  209  fdisk -l
+  210  sudo fdisk -l
+  211  gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled
+  212  libinput debug-events
+  213  sudo libinput debug-events
+  214  ddnf list installed "kernel-*"
+  215  \dnf list installed "kernel-*"
+  216  sudo dnf check-update --enablerepo=updates-testing
+  217  sudo dnf upgrade --refresh
+  218  cd ~/Desktop/
+  219  ls
+  220  ipython
+  221  cd /run/media/nbirge/
+  222  ls
+  223  cd 45Ca_data/
+  224  ls
+  225  cd cur_data/
+  226  ls
+  227  cd bad_runs/
+  228  pwd
+  229  ipython
+  230  pwd
+  231  ls
+  232  rm -r bad_runs/
+  233  ls
+  234  cd
+  235  jupyter lab
+  236  cd Desktop/
+  237  jupyter lab
+  238  pwd
+  239  ls
+  240  cd
+  241  sudo dnf upgrade --refresh
+  242  sudo dnf update
+  243  sudo dnf upgrade --refresh
+  244  shtop
+  245  htop
+  246  cd
+  247  ipython
+  248  ipcluster start -n 4
+  249  pip3 install python3-ipyparallel
+  250  pip3 install ipyparallel
+  251  sudo pip3 install ipyparallel
+  252  ipyparallel start -n 4
+  253  python3-ipyparallel start -n 4
+  254  python3 -ipyparallel start -n 4
+  255  python3 ipyparallel start -n 4
+  256  ipython
+  257  cd
+  258  jupyter lab
+  259  acf
+  260  sudo dnf update
+  261  acf
+  262  exit
+  263  acf
+  264  ls
+  265  rm *
+  266  scp nbirge@duo.acf.utk.edu:/nics/d/home/nwbirge/root_files/*.gz .
+  267  tar -xvf 45Ca_spectra.tar.gz 
+  268  pwd
+  269  cd Desktop/
+  270  ls
+  271  mkdir fromACF
+  272  cd fromACF/
+  273  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/B_analysis.C
+  274  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/B_analysis.C .
+  275  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/*.h
+  276  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/*.h .
+  277  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/*001*.root .
+  278  scp nbirge@duo.acf.utk.edu://lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/B_1/batch3/*001*.root .
+  279  pwd
+  280  ls
+  281  module avail
+  282  acf
+  283  htop
+  284  ls
+  285  pwd
+  286  CD
+  287  cd
+  288  ls
+  289  cd Desktop/
+  290  jupyter lab
+  291  vi 45CaBatch1.txt 
+  292  ls -lhtr
+  293  ls
+  294  ls batch*/
+  295  rm -r batch*/
+  296  ls
+  297  cd ../
+  298  ls
+  299  cd b_1
+  300  ls batch*/
+  301  rm -r batch*/
+  302  cd ../b_x
+  303  ls
+  304  ls batch*/
+  305  rm -r batch*/
+  306  ls
+  307  cd ..
+  308  cd b_0
+  309  ls
+  310  vi 45CaBatch2.txt 
+  311  ipython
+  312  cd fromACF/
+  313  ls
+  314  cd 45ca_spectra/
+  315  ls
+  316  ls b_0
+  317  ls b_1
+  318  ls b_x
+  319  ls
+  320  cd b_0
+  321  ipython
+  322  acf
+  323  ls
+  324  cd ../
+  325  ls
+  326  cd ../
+  327  ls
+  328  cd ../
+  329  ls
+  330  cd DM_simulation/
+  331  ls
+  332  acf
+  333  .q
+  334  acf
+  335  exit
+  336  acf
+  337  exit
+  338  acf
+  339  exit
+  340  acf
+  341  exit
+  342  ls
+  343  cd fromACF/
+  344  ls
+  345  scp nbirge@duo.acf.utk.edu:/lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/toDownload/*.gz
+  346  scp nbirge@duo.acf.utk.edu:/lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/toDownload/*.gz .
+  347  ls
+  348  tar -zvf newbs.tar.gz 
+  349  man tar
+  350  tar -xvf newbs.tar.gz 
+  351  ls
+  352  mkdir new45CaSpectra
+  353  mv b0/ new45CaSpectra/
+  354  mv b1/ new45CaSpectra/
+  355  mv b2/ new45CaSpectra/
+  356  mv bx/ new45CaSpectra/
+  357  cp 45ca_spectra/first_b_extraction.ipynb new45CaSpectra/
+  358  exit
+  359  acf
+  360  cd fromACF/
+  361  ls
+  362  rm newbs.tar.gz 
+  363  scp nbirge@duo.acf.utk.edu:/lustre/haven/proj/UTK0123/neutrons/ca45_data/2017/DM_simulation/toDownload/*.gz .
+  364  ls
+  365  tar -xvf newbs.tar.gz 
+  366  ls
+  367  vi b0/counts.txt
+  368  vi b1/counts.txt
+  369  vi bx/counts.txt
+  370  ls
+  371  cd new45CaSpectra/
+  372  ls
+  373  ls b0
+  374  cd ..
+  375  ls
+  376  rm -r new45CaSpectra/b0/
+  377  rm -r new45CaSpectra/b1/
+  378  rm -r new45CaSpectra/bx/
+  379  mv b*/ new45CaSpectra/
+  380  cd new45CaSpectra/
+  381  ls
+  382  ls b0
+  383  acf
+  384  acf
+  385  acf
+  386  jupyter
+  387  jupyter lab
+  388  cd
+  389  cd Desktop/
+  390  ipython
+  391  sudo dnf update
+  392  jupyter
+  393  jupyter lab
+  394  sudo yum localinstall zoom_x86_64.rpm
+  395  sudo dnf update
+  396  cd ../
+  397  ls
+  398  cd Desktop/
+  399  ls
+  400  rm test.py
+  401  cd ../htmlDev/
+  402  ls
+  403  mkdir testHTML
+  404  mv */s testHTML/
+  405  mv *s/ testHTML/
+  406  mv test.html testHTML/
+  407  cd testHTML/
+  408  mv test.html index.html
+  409  ls
+  410  mkdir styles
+  411  cd
+  412  ls
+  413  mkdir appDev
+  414  sudo dnf update
+  415  ls
+  416  mkdir htmlDev
+  417  cd htmlDev/
+  418  vi test.html
+  419  gedit test.html 
+  420  dnf install sudo rpm -v --import https://download.sublimetext.com/sublimehq-rpm-pub.gpg
+  421  sudo rpm -v --import https://download.sublimetext.com/sublimehq-rpm-pub.gpg
+  422  sudo dnf config-manager --add-repo https://download.sublimetext.com/rpm/stable/x86_64/sublime-text.repo
+  423  sudo dnf install sublime-text
+  424  ls
+  425  cd testHTML/
+  426  ls
+  427  cd scripts/
+  428  ls
+  429  mv ../main.js .
+  430  cd ../images/
+  431  mv athletic-field-golden-retriever.jpg golden.pjg
+  432  mv golden.pjg golden.jpg
+  433  ls
+  434  cd ../styles/
+  435  ls
+  436  mkdir images
+  437  ls
+  438  ls images
+  439  ls
+  440  mkdir scripts
+  441  ls
+  442  cd scripts
+  443  sudo dnf update
+  444  sudo dnf ubgrade --refresh
+  445  sudo dnf upgrade --refresh
+  446  sudo dnf install dnf-plugin-system-upgrade
+  447  sudo dnf system-upgrad download --releasever=33
+  448  sudo dnf system-upgrade download --releasever=33
+  449  dnf clean packages
+  450  sudo dnf system-upgrade reboot
+  451  cat /etc/os-release 
+  452  cat /etc/os-releasecat /etc/os-release. lsb_release -a. hostnamectl.
+  453  cat /etc/issue
+  454  cat /etc/fedora-release 
+  455  sudo dnf system-upgrade reboot
+  456  history
+  457  history > tmp
